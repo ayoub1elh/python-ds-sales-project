@@ -74,7 +74,7 @@ Le fichier de données `sales.xlsx` contient des informations sur les commandes 
 
 - Analyse comparative par année permettant de voir l'évolution des performances.
 
-## Auteur et Contact
+## Auteur
 
 Projet réalisé par Ayoub el hallaoui
 GitHub: [@Ayoub1elh](https://github.com/Ayoub1elh)
